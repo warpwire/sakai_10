@@ -1,4 +1,4 @@
-# sakai_10
+# Warpwire Sakai 10 Install Instructions
 For more visit: warpwire.com or contact us: support@warpwire.net
 
 The steps to add the Warpwire Sakai plugin to a Sakai 10 instance are as follows:
